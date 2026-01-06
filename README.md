@@ -85,7 +85,7 @@ exit
 
 以下是数据库运行测试的实际效果：
 
-![运行测试结果](D:\Code\Java\MYDB(other)\运行测试.png)
+![运行测试结果](./images/result.png)
 
 
 
